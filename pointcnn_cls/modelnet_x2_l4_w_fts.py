@@ -52,7 +52,7 @@ fc_params = [(128 * x, 0.0), (64 * x, 0.5)]
 with_fps = False
 
 optimizer = 'adam'
-epsilon = 1e-2
+epsilon = 1e-4
 
 data_dim = 6
 use_extra_features = True
